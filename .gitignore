@@ -1,3 +1,6 @@
+.idea
+./git/done.txt
+./git/error.txt
 # Logs
 logs
 *.log
